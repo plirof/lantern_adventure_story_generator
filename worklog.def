@@ -1,0 +1,9 @@
+Room name,STRING,20
+Room Desc,TEXT,10:2
+villain,STRING,20
+villain Desc,TEXT,10:2
+item needed,STRING,20
+item desc,TEXT,10:2
+reward item,STRING,20
+reward Desc,TEXT,10:2
+exits,STRING,20

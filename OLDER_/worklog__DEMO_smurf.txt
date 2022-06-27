@@ -1,0 +1,6 @@
+Entrance|You see the entrance of a scary tower! You see a pretty figure near the door!|Cinderella|Wears a Cinderella Dress|Pumkin||Rock|You can see your pretty face!|n=Lobby,up=Lobby
+Lobby|You see many STAY AWAY signs!|Papa Smurf|Smells like a sewer!|Garbamel potion||ticket|It has some brown marks|w=woods
+woods|You see many dead secret agents here!|Glass golem|Glass golem is bright|Rock||Tooth brush||w=forest
+forest|The place if full of bodies with a strange smilling face!|Banana man||Fruit Juice||||s=Cabin
+Cabin|The floor is filled with dead Kumite fighters!|Bad wolf||Bow||Grandma pyjamas||e=Bedroom
+Bedroom|You see some Playboy girls!|Robin|In the Beginning there was nothing … then Chuck Norris roundhouse kicked nothing and told it to get a job.Also,Chuck Norris can divide by zero.|Wine glass||The end item||

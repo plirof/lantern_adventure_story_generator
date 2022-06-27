@@ -1,0 +1,1 @@
+- If kill item EMPTY then Villain Needs NOT to be killed (don't blobk exits)

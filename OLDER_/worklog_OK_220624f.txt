@@ -1,0 +1,10 @@
+Entrance|You see the entrance of a scary tower! You see a pretty figure near the door!|Conchita|Wears a Cinderella Dress|Ball Attack||Mirror|You can see your pretty face!|n=Lobby,up=Lobby
+Lobby|You see many STAY AWAY signs!|Luigi|Smells like a sewer!|Pipe Attack||Toilet Plumper|It has some brown marks|up=Floor 1
+Floor 1|You see many dead secret agents here!|Jaws|Jaws is an assassin. He was last seen swimming in the ocean after escaping from the Atlantis city ship on which Bond had killed Stromberg before it was torpedoed and sunk.|Dental Floss||Tooth brush||up=Floor 2
+Floor 2|The place if full of bodies with a strange smilling face!|Joker|He wants world piece in his free time!|Full House Attack||Half a deck of cards||up=Floor 3
+Floor 3|You see many street fighters lying in the ground!|Dhalsim|Long smelly feet!|Chun Li Attack||Hairbrush||up=Floor 4
+Floor 4|You also see the ear of Sauron and his other eye!|Sauron|Big scary eye!|Ring Attack||Palantir||up=Floor 5
+Floor 5|The place is full of dust!|Thanos|Using the power of the Infinity Stones, Thanos believes he can ultimately save the universe by wiping out half of its population. He wants to start with you!|Infinity Attack||Infinity Stones||up=Floor 6
+Floor 6|Many terminated rebels lie here!|T 800|He is back!|EMP Attack||Future CPU||up=Floor 7
+Floor 7|The floor is filled with dead Kumite fighters!|Van Damme|When the Boogeyman goes to sleep every night he checks his closet for Jean Claude Van Damme.|Blind Attack||Torn Shirt||up=Penthouse
+Penthouse|You see some Playboy girls!|Chuck Norris|In the Beginning there was nothing … then Chuck Norris roundhouse kicked nothing and told it to get a job.Also,Chuck Norris can divide by zero.|God Attack||Holy Grail||
